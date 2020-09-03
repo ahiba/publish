@@ -1,0 +1,6 @@
+# dependencies  npm包文件
+/node_modules
+/server/node_modules
+/publisher/node_modules
+/publish-tool/node_modules
+/publish-server/node_modules
